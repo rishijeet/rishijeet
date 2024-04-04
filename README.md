@@ -1,4 +1,4 @@
-### Hi! I am Rishijeet !
+### Hi! I am Rishijeet
 
 ---
 
