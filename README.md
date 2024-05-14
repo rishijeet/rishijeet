@@ -11,7 +11,7 @@ Passionate polyglot programmer specializing in distributed systems and ultra-low
 ### Key Projects
 
 ---
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishijeet&repo=flinker&show_owner=true)](https://github.com/rishijeet/flinker) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishijeet&repo=py_news_twitter&show_owner=true)]([https://github.com/rishijeet/flinker](https://github.com/rishijeet/py_news_twitter))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishijeet&repo=flinker&show_owner=true)](https://github.com/rishijeet/flinker) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rishijeet&repo=py_news_twitter&show_owner=true)](https://github.com/rishijeet/py_news_twitter)
 
 ### Profile Stats
 
