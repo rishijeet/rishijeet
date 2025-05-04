@@ -18,4 +18,4 @@ Polyglot programmer with a passion for distributed systems and ultra-low latency
 ![Rishijeet's GitHub Contributions](https://github-contribution-stats.vercel.app/api?username=rishijeet&theme=github_dark_dimmed)
 
 ### Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishijeet/)  [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/rishijeet)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishijeet/)
